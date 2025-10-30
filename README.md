@@ -30,6 +30,12 @@ Built using vanilla JavaScript, it focuses on clean interactivity, responsive de
 |  **Local Data Module (data.js)** | Stores all cat meme data |
 
 ---
+## 📚 What We Have Studied
+> - Here are the key JavaScript concepts covered while building this project 🧩
+> - Concepts practiced include:
+for...of, import/export, radio & checkbox inputs, querySelector, getElementsByClassName, classList.remove, .includes(), .filter()
+
+---
 
 ## 🌿 Lessons Learned  
 > - Strengthened DOM manipulation and event handling skills

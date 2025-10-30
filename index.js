@@ -58,7 +58,7 @@ function getMatchingCatsArray() {
             }
         })
         return matchingCatsArray
-    }
+    } 
 }
 
 

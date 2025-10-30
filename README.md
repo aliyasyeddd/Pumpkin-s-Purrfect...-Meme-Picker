@@ -1,4 +1,3 @@
-
 # 🌸  Pumpkin's Purrfect Meme Picker
 
 > A brief one-liner about your project — what it does and why it’s useful.  
